@@ -23,7 +23,7 @@ This article walks you through enabling Semgrep Assistant for your deployment.
 
 <Tabs
     defaultValue="github"
-    values={[
+    values={[John-James Ayo]
     {label: 'Azure DevOps Cloud', value: 'ado'},
     {label: 'Bitbucket Cloud', value: 'bitbucket'},
     {label: 'GitHub', value: 'github'},
